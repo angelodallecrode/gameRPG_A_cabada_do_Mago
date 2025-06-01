@@ -31,7 +31,3 @@ O jogo é controlado através de comandos de texto. Aqui estão os comandos bás
 *   `FerramentasDemo.js`: Define as ferramentas específicas que podem ser encontradas e usadas no jogo (ex: `VarinhaDeCristal`, `TesouraDePrata`).
 *   `Objetos.js`: Define os objetos interativos encontrados nas salas do jogo (ex: `ChaleiraCantante`, `LivroDeFeiticos`).
 *   `SalasDemo.js`: Define as salas específicas do jogo (ex: `SalaDeEstar`, `JardimDeErvas`), seus objetos, ferramentas e a lógica de interação entre eles.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, novas salas, objetos ou mecânicas de jogo.
